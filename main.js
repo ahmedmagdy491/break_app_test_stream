@@ -101,4 +101,4 @@ document
 	.getElementById('leave-btn')
 	.addEventListener('click', leaveAndRemoveLocalStream);
 document.getElementById('mic-btn').addEventListener('click', toggleMic);
-document.getElementById('mic-btn').addEventListener('click', toggleCamera);
+document.getElementById('camera-btn').addEventListener('click', toggleCamera);
